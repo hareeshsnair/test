@@ -1,0 +1,15 @@
+.input {
+    width: 50%;
+    text-align: center;
+    /* margin-top: 50px; */
+    border: 1px solid #000;
+    padding: 20px;
+    margin: auto;
+}
+.error {
+    border-color: red
+}
+
+.inputDiv {
+    padding: 10px;
+}
